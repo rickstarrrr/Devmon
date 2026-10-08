@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/.aistudio/Devmon Banner.png" alt="Devmon Banner">
+<img src="assets/Devmon Banner.png" alt="Devmon Banner">
 </div>
 
 # Play
